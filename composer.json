@@ -2,6 +2,7 @@
   "name":"benjy/tap",
   "type": "project",
   "prefer-stable": true,
+  "license": "MIT",
   "config": {
     "preferred-install": "dist",
     "bin-dir": "bin/"
