@@ -1,6 +1,6 @@
 # Installation
 
-    composer install benjy/tap
+    composer require benjy/tap
 
 ## Usage
 
